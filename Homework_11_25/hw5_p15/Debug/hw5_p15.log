@@ -1,0 +1,5 @@
+﻿  hw5_p15.c
+d:\c_code\homework_11_25\source\hw5_p15.c(19): warning C4047: '函式': 'const int' 與 'int [10]' 間接取值的層級不同
+d:\c_code\homework_11_25\source\hw5_p15.c(19): warning C4024: 'bubbleSort': 型式和實質參數 1 不同的類型
+d:\c_code\homework_11_25\source\hw5_p15.c(33): warning C4028: 型式參數 1 與來自宣告的不同
+  hw5_p15.vcxproj -> D:\c_code\Homework_11_25\hw5_p15\Debug\hw5_p15.exe
